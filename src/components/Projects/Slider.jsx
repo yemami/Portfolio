@@ -24,6 +24,14 @@ let data = [
     {
         img : "https://res.cloudinary.com/dw4mmejgp/image/upload/v1679258578/aws_hvlk0s.avif",
         disc : "Proficiency in utilizing Amazon Web Services (AWS) to design and implement highly scalable and resilient solutions on the AWS platform. Experience with various AWS services such as EC2, S3, Lambda, RDS, and more."
+    },
+    {
+      img : "https://i.morioh.com/b93618229c.png",
+      disc : "Proficiency in using Angular to develop complex and dynamic web applications with a focus on performance and scalability. Familiar with modern front-end development tools and practices such as TypeScript, RxJS, and reactive programming."
+    },
+    {
+      img : "https://blog.logrocket.com/wp-content/uploads/2021/02/react-usememo-reactmemo.png?is-pending-load=1",
+      disc : "Expertise in using React to build high-quality, reusable UI components and dynamic user interfaces. Familiar with modern front-end development tools and practices such as Redux, webpack, and testing frameworks."
     }
 ];
 
